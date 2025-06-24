@@ -1,4 +1,4 @@
-# Calendar App - Group 03
+# Calendar Scheduler using Java
 
 A Java-based calendar application with graphical user interface.
 
@@ -10,7 +10,6 @@ This project is a calendar application developed as part of a group assignment. 
 
 - `CalendarApp.java` - Main Java application file
 - `CALENDER GUI UML_Group 03.pdf` - UML diagram documentation
-- `Group Members_Group 03.txt` - Project team information
 
 ## How to Run
 
@@ -26,9 +25,11 @@ This project is a calendar application developed as part of a group assignment. 
 
 ## Group Members
 
-See `Group Members_Group 03.txt` for the complete list of team members.
-
-## Documentation
+S.S. Konthasinghe
+P. M. P. Dias
+L.R.L.D. Bandara
+G.A.S.U. Perera
+K.L.L.C. Kahatapitiya
 
 The UML diagram and design documentation can be found in `CALENDER GUI UML_Group 03.pdf`.
 
